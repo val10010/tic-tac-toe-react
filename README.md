@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with 
+[Create React App](https://github.com/facebook/create-react-app).
 [Pull request](https://github.com/val10010/tic-tac-toe-react/pull/1/commits/2aa865f6cc275e776a41ea4f06a2e82c254944ce)
 [Work version in sandbox](https://codesandbox.io/s/2p2l2n00jn)
 
